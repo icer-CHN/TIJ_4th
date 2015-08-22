@@ -12,7 +12,7 @@ public class Test {
 			PokerHand ph = new PokerHand(hands.get(0));
 			PokerHand pha = new PokerHand(hands.get(1));
 			i++;
-			if (ph.handRank().compareTo(GOAL) == 0 && pha.handRank().compareTo(GOAL) == 0) {
+			if (ph.handRank().compareTo(GOAL) >= 0 && pha.handRank().compareTo(GOAL) >= 0) {
 				System.out.println("Times: " + i);
 				ph.showHand();
 				pha.showHand();
