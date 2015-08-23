@@ -26,7 +26,7 @@ public class VampireNumber {
 
     /**
      * 判断一个四位数是不是吸血鬼数;
-     * 算法思想略蠢;
+     * 算法思想略蠢;时间成本太高;
      */
     public static boolean isVampireNum(int num) {
         boolean res = false;
