@@ -6,6 +6,10 @@ package util;
  */
 public class Loger {
 
+    public static void logLn() {
+        logLn("");
+    }
+
     public static void logLn(String msg) {
         System.out.println(msg);
     }
