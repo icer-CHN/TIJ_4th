@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter_05/Chapter_05.iml" filepath="$PROJECT_DIR$/Chapter_05/Chapter_05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_06/Chapter_06.iml" filepath="$PROJECT_DIR$/Chapter_06/Chapter_06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Extra_Deck_of_Cards/Extra_Deck_of_Cards.iml" filepath="$PROJECT_DIR$/Extra_Deck_of_Cards/Extra_Deck_of_Cards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/TIJ_4th.iml" filepath="$PROJECT_DIR$/TIJ_4th.iml" />
       <module fileurl="file://$PROJECT_DIR$/TIJ_SourceCode/TIJ_SourceCode.iml" filepath="$PROJECT_DIR$/TIJ_SourceCode/TIJ_SourceCode.iml" />
     </modules>
